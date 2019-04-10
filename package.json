@@ -36,9 +36,9 @@
   "dependencies": {
     "@babel/runtime": "^7.0.0",
     "appium-base-driver": "^3.0.0",
-    "appium-ios-driver": "^4.0.0",
+    "appium-ios-driver": "github:daylohq/appium-ios-driver#54c9c413804b498cbeba57cb4b438ddb77c2a149",
     "appium-ios-simulator": "^3.9.0",
-    "appium-remote-debugger": "^4.0.0",
+    "appium-remote-debugger": "^4.2.0",
     "appium-support": "^2.26.1",
     "appium-xcode": "^3.2.0",
     "async-lock": "^1.0.0",
